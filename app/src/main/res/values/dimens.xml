@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="key_height">59.0dip</dimen>
+    <dimen name="width_input_tv_cutline">1.0dip</dimen>
+    <dimen name="protocol_title">18.0sp</dimen>
+    <dimen name="protocol_content">15.0sp</dimen>
+    <dimen name="protocol_content_dis">30.0sp</dimen>
+    <dimen name="on_off_key">25.0sp</dimen>
+    <dimen name="home_left_menu">18.0sp</dimen>
+    <dimen name="page_margin">10.0dip</dimen>
+    <dimen name="dp_24">24.0dip</dimen>
+    <dimen name="dp_100">100.0dip</dimen>
+    <dimen name="dp_110">110.0dip</dimen>
+    <dimen name="dp_40">40.0dip</dimen>
+    <dimen name="dp_60">60.0dip</dimen>
+    <dimen name="dp_8">8.0dip</dimen>
+    <dimen name="sp_3">3.0sp</dimen>
+    <dimen name="line">1.0dip</dimen>
+    <dimen name="sp_1">1.0sp</dimen>
+    <dimen name="alphabet_size">12.0dip</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350.0dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580.0dip</dimen>
+</resources>

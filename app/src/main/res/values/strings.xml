@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProductViewTest</string>
+
+    <string name="pixel_deficiency">像素不足!</string>
+
+    <string name="finish">完成</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="delete_num">删除(%d)</string>
+    <string name="loading">加载中</string>
+    <string name="go_on">继续</string>
+    <string name="tips">温馨提示</string>
+    <string name="network_unavailable">网络不可用,确保wifi或者移动网络是否已经打开</string>
+    <string name="request_timeout">请求超时</string>
+    <string name="request_fail">请求失败</string>
+    <string name="not_add_image">第%d页还没有添加照片,是否继续下一步?</string>
+    <string name="illustration">图文说明</string>
+    <string name="cover">封面</string>
+    <string name="error_msg">程序出错了</string>
+    <string name="if_add_to_my_work">退出后可在"我的作品"中继续编辑,是否确认退出?</string>
+</resources>

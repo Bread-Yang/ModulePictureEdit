@@ -1,0 +1,41 @@
+package com.mdground.moduleedittest.Constant;
+
+public final class ApiUrl {
+    public static final String APP_UPDATA_URL = "http://ttmy.len.so/app/appapi/checkupdate/type/android";
+    public static final String INVITATION_URL = "http://ttmy.len.so/app/user/invitelist/uid/";
+    public static final String PASSWORD_CHANGED_URL = "http://ttmy.len.so/app/user/profile";
+    public static final String PROTOCOL_URL = "http://ttmy.len.so/app/appapi/xieyi";
+    public static final String REMOTE_DOMAIN = "http://ttmy.len.so/";
+    public static final String USER_FEEDBACK_URL = "http://ttmy.len.so/app/appapi/message";
+    public static final String add_addr = "http://ttmy.len.so/app/user/updateAddress";
+    public static final String addresslist = "http://ttmy.len.so/app/user/addresslist/uid/";
+    public static final String appinvite = "http://ttmy.len.so/home/appinvite/index/u/";
+    public static final String code = "http://ttmy.len.so/app/user/verify/mobile/";
+    public static final String confirmgoods = "http://ttmy.len.so/app/order/confirmgoods/id/";
+    public static final String delete_order = "http://ttmy.len.so/app/order/delete/id/";
+    public static final String delete_work = "http://ttmy.len.so/app/works/delete/id/";
+    public static final String forget = "http://ttmy.len.so/app/user/resetpwd";
+    public static final String get_product_detail = "http://ttmy.len.so/app/appapi/getproductdetail/productid/";
+    public static final String get_qiniu_token = "http://ttmy.len.so/app/Upload/get_qiniu_token";
+    public static final String getcategory = "http://ttmy.len.so/app/appapi/getcategory";
+    public static final String getcode = "http://ttmy.len.so/app/user/verify/mobile/";
+    public static final String getproductlist = "http://ttmy.len.so/app/appapi/getproductlist/cate_id/";
+    public static final String ic_launcher = "http://ttmy.len.so/Public/Home/images/ic_launcher.png";
+    public static final String login = "http://ttmy.len.so/app/user/login";
+    public static final String lunbotu = "http://ttmy.len.so/app/appapi/getslide/place/2/cate_id/";
+    public static final String order_commit = "http://ttmy.len.so/app/order/commit";
+    public static final String orderlist = "http://ttmy.len.so/app/order/orderlist/uid/";
+    public static final String qiniu_head = "http://7xqkvn.com1.z0.glb.clouddn.com/";
+    public static final String qiniu_last = "?imageView2/2/w/120";
+    public static final String register = "http://ttmy.len.so/app/user/register";
+    public static final String save_works = "http://ttmy.len.so/app/works/saveworks";
+    public static final String score_list = "http://ttmy.len.so/app/user/myscore/uid/";
+    public static final String share = "http://ttmy.len.so/app/appapi/share";
+    public static final String share_work = "http://ttmy.len.so/home/appinvite/workshow/id/";
+    public static final String tobepay = "http://ttmy.len.so/app/order/tobepay";
+    public static final String update_userInfo = "http://ttmy.len.so/app/user/updateInfo";
+    public static final String update_userface = "http://ttmy.len.so/app/user/saveface";
+    public static final String uploadimg = "http://ttmy.len.so/app/user/uploadimg";
+    public static final String worklist = "http://ttmy.len.so/app/works/getlist/uid/";
+    public static final String works_savepage = "http://ttmy.len.so/app/works/savepage";
+}
